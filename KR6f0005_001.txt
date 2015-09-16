@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:24.246449
+#+DATE: 2015-08-30 20:00:26.197204
 #+TITLE: 佛說大乘十法經
 #+PROPERTY: CBETA_ID T11n0314
 #+PROPERTY: ID KR6f0005
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 314
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6f0005_T_000-0764a>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0005_T_001-0764a> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.314[No.310(9)]¶
-
- 佛說大乘十法經¶
+No. 314 [No. 310(9)]¶
+佛說大乘十法經¶
 ¶
 梁扶南三藏僧伽婆羅譯¶
 
